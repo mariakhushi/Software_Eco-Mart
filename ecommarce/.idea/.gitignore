@@ -6,3 +6,19 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/templates/about.html
+/templates/activate.html
+/templates/activatefail.html
+/templates/contact.html
+/templates/paymentstatus.html
+/templates/paytm.html
+/templates/signup.html
+/templates/signupbasetest.html
+/templates/copy.html
+/templates/signup.html
+/templates/loginbasetest.html
+/templates/signup.html
+/templates/base.html
+/templates/signup.html
+/templates/signup.html
+/templates/checkout.html
